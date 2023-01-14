@@ -4,5 +4,6 @@ public class Mehmet {
 
 
         System.out.println("First comment from Mehmet");
+        System.out.println("Second comment");
     }
 }
